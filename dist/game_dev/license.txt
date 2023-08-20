@@ -1,0 +1,11 @@
+Model Information:
+* title:	Game Dev from the Future - Quill
+* source:	https://sketchfab.com/3d-models/game-dev-from-the-future-quill-862fffc0562645febd10fe979135354d
+* author:	TantX3D (https://sketchfab.com/t3dxpower)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Game Dev from the Future - Quill" (https://sketchfab.com/3d-models/game-dev-from-the-future-quill-862fffc0562645febd10fe979135354d) by TantX3D (https://sketchfab.com/t3dxpower) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
