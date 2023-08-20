@@ -51,7 +51,7 @@ const About = () => {
         JavaScript y Phyton, y experiencia en frameworks como Angular, React, Node.js, y
         Three.js. Aprendo rápido y colaboro estrechamente con los clientes para
         crear soluciones eficientes, escalables y fáciles de usar que resuelvan
-        problemas del mundo real. ¡Vamos a trabajar juntos para llevar sus ideas a la vida!
+        problemas del mundo real. ¡Vamos a trabajar juntos para llevar tus ideas a buen puerto!
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
