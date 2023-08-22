@@ -171,26 +171,26 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-    name: "Sara Lee",
-    designation: "CFO",
-    company: "Acme Co",
+      "Con su profundo conocimiento técnico, Javier logró capturar la esencia de mis proyectos y transformarlos en representaciones visuales impresionantes. Su enfoque meticuloso y su disposición para adaptarse a mis necesidades específicas fueron notables a lo largo de todo el proceso. El portfolio que creó superó todas mis expectativas y ha sido fundamental para mostrar mi trabajo de manera impactante. ",
+    name: "Jorge Garcia",
+    designation: "Diseñador",
+    company: "N/A",
     image: "https://randomuser.me/api/portraits/women/4.jpg",
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Rick does.",
-    name: "Chris Brown",
-    designation: "COO",
-    company: "DEF Corp",
+      "Sin las clases de Javier seguramente no habría podido aprobar el segundo curso de Desarrollo de Aplicaciones Multiplataforma. Siempre ha demostrado una profunda comprensión de los conceptos, así como una habilidad excepcional para transmitirlos de manera clara y concisa. Sus enfoques prácticos para abordar los desafíos de programación y desarrollo han ampliado mi perspectiva y mejorado mis habilidades técnicas",
+    name: "Marc Vilanova",
+    designation: "Student",
+    company: "N/A",
     image: "https://randomuser.me/api/portraits/men/5.jpg",
   },
   {
     testimonial:
-      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough! ",
-    name: "Lisa Wang",
-    designation: "CTO",
-    company: "456 Enterprises",
+      "Es un honor recomendar a [Tu Nombre] como colega y colaborador en nuestra empresa durante los últimos cinco años. A lo largo de nuestro tiempo juntos, he sido testigo de su excepcional habilidad informática y su enfoque comprometido en cada proyecto que hemos compartido. [Tu Nombre] demuestra una profunda comprensión de los desafíos técnicos, aportando soluciones innovadoras y consistentes. Su capacidad para trabajar en equipo, comunicarse efectivamente y mantener una actitud positiva incluso en situaciones demandantes es admirable. ",
+    name: "Guillermo Sesé",
+    designation: "Delivery Consultant",
+    company: "Deloitte",
     image: "https://randomuser.me/api/portraits/women/6.jpg",
   },
 ];
