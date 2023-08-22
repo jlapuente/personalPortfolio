@@ -39,15 +39,15 @@ const About = () => {
   return (
     <>
       <motion.div variants={textVariant()}>
-        <p className={styles.sectionSubText}>Introduction</p>
-        <h2 className={styles.sectionHeadText}>Overview.</h2>
+        <h2 className={styles.sectionHeadText}>Vista general.</h2>
+        <p className={styles.sectionSubText}>Introducción</p>
       </motion.div>
 
       <motion.p
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[19px] max-w-3xl leading-[30px]'
       >
-        Soy un desarrollador de software con experiencia en Java, TypeScript,
+        Soy un desarrollador de software asentado en Zaragoza con experiencia en Java, TypeScript,
         JavaScript y Phyton, y experiencia en frameworks como Angular, React, Node.js, y
         Three.js. Aprendo rápido y colaboro estrechamente con los clientes para
         crear soluciones eficientes, escalables y fáciles de usar que resuelvan
