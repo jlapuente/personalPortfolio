@@ -39,7 +39,7 @@ const About = () => {
   return (
     <>
       <motion.div variants={textVariant()}>
-        <h2 className={styles.sectionHeadText}>Vista general.</h2>
+        <h2 className={styles.sectionHeadText}>Vista general</h2>
         <p className={styles.sectionSubText}>Introducción</p>
       </motion.div>
 
@@ -49,7 +49,7 @@ const About = () => {
       >
         Soy un desarrollador de software asentado en Zaragoza con experiencia en Java, TypeScript,
         JavaScript y Phyton, y experiencia en frameworks como Angular, React, Node.js, y
-        Three.js. Aprendo rápido y colaboro estrechamente con los clientes para
+        Three.js. Aprendo rápido y colaboro estrechamente con mis clientes para
         crear soluciones eficientes, escalables y fáciles de usar que resuelvan
         problemas del mundo real. ¡Vamos a trabajar juntos para llevar tus ideas a buen puerto!
       </motion.p>

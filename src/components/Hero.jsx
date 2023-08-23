@@ -1,7 +1,7 @@
 import { motion } from "framer-motion";
 
 import { styles } from "../styles";
-// import { ComputersCanvas } from "./canvas";
+import { ComputersCanvas } from "./canvas";
 
 const Hero = () => {
   return (
@@ -10,13 +10,13 @@ const Hero = () => {
         className={`absolute inset-0 top-[120px]  max-w-7xl mx-auto ${styles.paddingX} flex flex-row items-start gap-5`}
       >
         <div className='flex flex-col justify-center items-center mt-5'>
-          <div className='w-5 h-5 rounded-full bg-[#113f67]' />
+          <div className='w-5 h-5 rounded-full bg-[#7C4BE6]' />
           <div className='w-1 sm:h-80 h-40 violet-gradient' />
         </div>
 
         <div>
           <h1 className={`${styles.heroHeadText} text-white`}>
-            ¡Buenas! Soy <span className='text-[#113f67]'>Javier</span>
+            ¡Buenas! Soy <span className='text-[#7C4BE6]'>Javier</span>
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
             Desarrollo páginas web, interfaces <br className='sm:block hidden' />
@@ -25,12 +25,10 @@ const Hero = () => {
         </div>
       </div>
       <div
-        className={`absolute inset-0 top-[500px]  max-w-7xl mx-auto flex flex-row items-start gap-5`}
+        className={`absolute inset-0 top-[300px]  max-w-7xl mx-auto flex flex-row items-start gap-5`}
       >
 
-        <div>
-      {/* <ComputersCanvas/> */}
-        </div>
+      <ComputersCanvas/>
       </div>
 
 
