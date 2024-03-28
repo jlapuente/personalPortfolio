@@ -37,6 +37,8 @@ import tripguide from "./tripguide.png";
 
 import tify from "./works/tify.png";
 import unizar from "./works/unizar.png";
+import node from "./works/node.png";
+import defilovalacosa from "./works/defilovalacosa.png";
 
 export {
   logo,
@@ -73,5 +75,7 @@ export {
   dxd,
   deloitte,
   tify,
-  unizar
+  unizar,
+  node,
+  defilovalacosa
 };

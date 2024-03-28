@@ -21,7 +21,8 @@ import {
   dxd,
   deloitte,
   tify,
-  unizar
+  defilovalacosa,
+  node
 } from "../assets";
 
 export const navLinks = [
@@ -157,13 +158,15 @@ const experiences = [
     company_name: "Deloitte",
     icon: deloitte,
     iconBg: "#383E56",
-    date: "Septiembre 2022 - Septiembre 2023",
+    date: "Septiembre 2022 - Septiembre 2024",
     points: [
       "Diseño y desarrollo de soluciones.",
+      "Diseño de una arquitectura de referencia en la Unión Europea para las Instituciones de Educacion Superior (HEI).",
       "Gestión y organización de equipos de trabajo de 2 a 4 personas.",
       "Interlocución con cliente tanto para toma de requisitos como para seguimiento del equipo.",
       "Elaboración de documentación tecnica y funcional.",
-      "Formación de nuevas incorporaciones.",
+      "Participación en conferencias, sesiones de trabajo y exposiciones con participantes provenientes de toda la Unión Europea (Inglés).",
+      "Formación de nuevas incorporaciones."
     ],
   }
 ];
@@ -175,23 +178,23 @@ const testimonials = [
     name: "Jorge Garcia",
     designation: "Diseñador",
     company: "N/A",
-    image: "https://randomuser.me/api/portraits/women/4.jpg",
+    image: "https://randomuser.me/api/portraits/men/1.jpg",
   },
   {
     testimonial:
       "Sin las clases de Javier no habría podido aprobar el curso de Desarrollo de Aplicaciones Multiplataforma. Siempre ha demostrado una profunda comprensión de los conceptos, así como una habilidad excepcional para transmitirlos de manera clara y concisa.",
     name: "Marc Vilanova",
-    designation: "Student",
+    designation: "Estudiante",
     company: "N/A",
-    image: "https://randomuser.me/api/portraits/men/5.jpg",
+    image: "https://randomuser.me/api/portraits/men/2.jpg",
   },
   {
     testimonial:
-      "A lo largo de nuestro tiempo juntos, he sido testigo de su excepcional habilidad informática y su enfoque comprometido en cada proyecto que hemos compartido.",
+      "A lo largo de nuestro tiempo juntos, he sido testigo de su excepcional habilidad en el desarrollo de software y su enfoque comprometido en cada proyecto que hemos compartido.",
     name: "Guillermo Sesé",
     designation: "Delivery Consultant",
     company: "Deloitte",
-    image: "https://randomuser.me/api/portraits/women/6.jpg",
+    image: "https://randomuser.me/api/portraits/men/6.jpg",
   },
 ];
 
@@ -218,9 +221,9 @@ const projects = [
     source_code_link: "https://github.com/jlapuente/Tify",
   },
   {
-    name: "Philosofy Knowledge HUB",
+    name: "De filosofía va la cosa",
     description:
-      "Una aplicación web que sirve de centro de acumulación de conocimiento relativo a la filosofia. Una suerte de wikipedia pero adaptada a los requerimientos de la filosofía.",
+      "Una proyecto muy personal y especial para mí, mi propio blog de filosofía y actualidad adaptado a mis propias preferencias.",
     tags: [
       {
         name: "angular",
@@ -235,29 +238,25 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: unizar,
-    source_code_link: "https://github.com/jlapuente/filoWebsite",
+    image: defilovalacosa,
+    source_code_link: "https://github.com/jlapuente/DFiloVaLaCosa",
   },
   {
-    name: "Trip Guide",
+    name: "Philosopheme of the day (POTD)",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "Un proyecto recien iniciado que consiste en una API Rest que devuelve una cita cada dia.",
     tags: [
       {
-        name: "nextjs",
+        name: "rest-api",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "nodejs",
         color: "green-text-gradient",
-      },
-      {
-        name: "css",
-        color: "pink-text-gradient",
-      },
+      }
     ],
-    image: tify,
-    source_code_link: "https://github.com/",
+    image: node,
+    source_code_link: "https://github.com/jlapuente/philosopheme-of-the-day",
   },
 ];
 
